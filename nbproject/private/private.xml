@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/project/Cafe%20Mania/src/cafe/ViewBillsOrderPlacedDetails.java</file>
+            <file>file:/D:/project/Cafe%20Mania/src/cafe/AddNewProduct.java</file>
+            <file>file:/D:/project/Cafe%20Mania/src/dao/ProductDao.java</file>
+            <file>file:/D:/project/Cafe%20Mania/src/cafe/Login.java</file>
+            <file>file:/D:/project/Cafe%20Mania/src/dao/UserDao.java</file>
+            <file>file:/D:/project/Cafe%20Mania/src/cafe/ViewEditDeleteProduct.java</file>
+            <file>file:/D:/project/Cafe%20Mania/src/cafe/CoffeeCafe.java</file>
+            <file>file:/D:/project/Cafe%20Mania/src/dao/ConnectionProvider.java</file>
+            <file>file:/D:/project/Cafe%20Mania/src/dao/CategoryDao.java</file>
+            <file>file:/D:/project/Cafe%20Mania/src/model/Bill.java</file>
+            <file>file:/D:/project/Cafe%20Mania/src/cafe/ChangePassword.java</file>
+            <file>file:/D:/project/Cafe%20Mania/src/cafe/VerifyUsers.java</file>
+            <file>file:/D:/project/Cafe%20Mania/src/common/OpenPdf.java</file>
+            <file>file:/D:/project/Cafe%20Mania/src/cafe/cafe/comman/Openpdf.java</file>
+            <file>file:/D:/project/Cafe%20Mania/src/cafe/ManageCategory.java</file>
+            <file>file:/D:/project/Cafe%20Mania/src/cafe/ForgotPassword.java</file>
+            <file>file:/D:/project/Cafe%20Mania/src/model/Product.java</file>
+            <file>file:/D:/project/Cafe%20Mania/src/model/User.java</file>
+            <file>file:/D:/project/Cafe%20Mania/src/cafe/PlaceOrder.java</file>
+            <file>file:/D:/project/Cafe%20Mania/src/dao/DbOperations.java</file>
+            <file>file:/D:/project/Cafe%20Mania/src/cafe/ChangeSecurityQuestion.java</file>
+            <file>file:/D:/project/Cafe%20Mania/src/model/Category.java</file>
+            <file>file:/D:/project/Cafe%20Mania/src/dao/BillDao.java</file>
+            <file>file:/D:/project/Cafe%20Mania/src/dao/tables.java</file>
+            <file>file:/D:/project/Cafe%20Mania/src/cafe/Home.java</file>
+        </group>
+    </open-files>
+</project-private>
